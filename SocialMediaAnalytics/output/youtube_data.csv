@@ -1,0 +1,378 @@
+﻿Video ID,Title,Description,Channel,Published Date,Views,Likes,Comments,Total Engagement,Engagement Rate (%)
+kqtD5dpn9C8,Python for Beginners - Learn Coding with Python in 1 Hour,"Learn Python basics in just 1 hour! Perfect for beginners interested in AI and coding. ⚡ Plus, get 6 months of PyCharm FREE with the coupon in the description!
+
+🚀 Want to dive deeper? Check out my Complete Python Mastery course: 
+- Full course: https://mosh.link/python-course
+- Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF
+
+📕 Get the FREE goodies:
+- Python cheat sheet: https://mosh.link/python-cheatsheet
+- Get 6 months of PyCharm for free with this coupon code: MOSH_YOUTUBE - Redeem it at: https://jb.gg/redeem
+
+✋ Stay connected:
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+⭐ Related tutorials
+https://youtu.be/yVl_G-F7m8c?si=11emtFyDccTKCGn7
+
+📖 TABLE OF CONTENT
+0:00:00 Introduction 
+0:00:30 What You Can Do With Python 
+0:01:15 Your First Python Program 
+0:05:30 Variables
+0:09:08 Receiving Input
+0:10:48 Type Conversion
+0:18:49 Strings
+0:23:41 Arithmetic Operators 
+0:25:59 Operator Precedence 
+0:27:11 Comparison Operators 
+0:28:52 Logical Operators
+0:31:06 If Statements
+0:36:16 Exercise
+0:41:42 While Loops
+0:45:11 Lists
+0:48:47 List Methods
+0:52:16 For Loops
+0:54:54 The range() Function 
+0:57:43 Tuples
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,2020-09-16T13:00:20Z,25948455,575150,29011,604161,2.33
+_uQrJ0TkZlc,Python Full Course for Beginners,"Learn Python for AI, machine learning, and web development with this beginner-friendly course! 🚀 Get 6 months of PyCharm FREE with the coupon in the description!
+
+🚀 Want to dive deeper?
+- Check out my Python mastery course: https://mosh.link/python-course
+- Subscribe for more awesome Python content: https://goo.gl/6PYaGF
+
+🔗 Related videos 
+https://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM
+
+👉 New version available Watch here: https://youtu.be/kqtD5dpn9C8
+
+📕 Get the FREE goodies:
+- Python cheat sheet: https://mosh.link/python-cheatsheet
+- Supplementary materials (spreadsheet): https://github.com/mosh-hamedani/python-supplementary-materials
+- Get 6 months of PyCharm for free with this coupon code: MOSH_YOUTUBE - Redeem it at: https://jb.gg/redeem
+
+✋ Stay connected:
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+⭐ My favorite Python books
+- Python Crash Course: https://amzn.to/2GqMdjG
+- Automate the Boring Stuff with Python: https://amzn.to/2N71d6S
+- A Smarter Way to Learn Python: https://amzn.to/2UZa6lE
+- Machine Learning for Absolute Beginners: https://amzn.to/2Gs0koL
+- Hands-on Machine Learning with scikit-learn and TensorFlow: https://amzn.to/2IdUuJy
+
+📖 TABLE OF CONTENT
+00:00:00 Introduction
+00:01:49 Installing Python 3
+00:06:10 Your First Python Program
+00:08:11 How Python Code Gets Executed 
+00:11:24 How Long It Takes To Learn Python 
+00:13:03 Variables
+00:18:21 Receiving Input
+00:22:16 Python Cheat Sheet
+00:22:46 Type Conversion
+00:29:31 Strings
+00:37:36 Formatted Strings
+00:40:50 String Methods
+00:48:33 Arithmetic Operations
+00:51:33 Operator Precedence
+00:55:04 Math Functions
+00:58:17 If Statements
+01:06:32 Logical Operators
+01:11:25 Comparison Operators
+01:16:17 Weight Converter Program 
+01:20:43 While Loops
+01:24:07 Building a Guessing Game
+01:30:51 Building the Car Game
+01:41:48 For Loops
+01:47:46 Nested Loops
+01:55:50 Lists
+02:01:45 2D Lists
+02:05:11 My Complete Python Course 
+02:06:00 List Methods
+02:13:25 Tuples
+02:15:34 Unpacking
+02:18:21 Dictionaries
+02:26:21 Emoji Converter
+02:30:31 Functions
+02:35:21 Parameters
+02:39:24 Keyword Arguments 
+02:44:45 Return Statement
+02:48:55 Creating a Reusable Function 
+02:53:42 Exceptions
+02:59:14 Comments
+03:01:46 Classes
+03:07:46 Constructors
+03:14:41 Inheritance
+03:19:33 Modules
+03:30:12 Packages
+03:36:22 Generating Random Values
+03:44:37 Working with Directories 
+03:50:47 Pypi and Pip
+03:55:34 Project 1: Automation with Python
+04:10:22 Project 2: Machine Learning with Python 
+04:58:37 Project 3: Building a Website with Django
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,2019-02-18T15:00:08Z,49632789,1275135,63015,1338150,2.7
+nLRL_NcnK-4,Harvard CS50’s Introduction to Programming with Python – Full University Course,"Learn Python programming from Harvard University.  It dives more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. You will learn how to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku.
+
+This course will teach you how to read and write code as well as how to test and “debug” it. It is designed for students with or without prior programming experience who’d like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
+
+Whereas CS50x (the original CS50 course) itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
+
+💻 Slides, source code, and more at https://cs50.harvard.edu/python
+
+✏️ Dr. David J. Malan teaches this course.
+
+🖥 Watch the original CS50x course: https://youtu.be/8mAITcNt710
+
+❤️ Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)
+
+⭐️ Course Contents ⭐️
+(00:00:00) Introduction
+(00:04:48) Lecture 0 - Functions, Variables
+(01:50:24) Lecture 1 - Conditionals
+(02:46:23) Lecture 2 - Loops
+(04:07:10) Lecture 3 - Exceptions
+(04:51:45) Lecture 4 - Libraries
+(06:09:15) Lecture 5 - Unit Tests
+(07:00:22) Lecture 6 - File I/O
+(08:32:32) Lecture 7 - Regular Expressions
+(10:37:35) Lecture 8 - Object-Oriented Programming
+(13:28:47) Lecture 9 - Et Cetera
+
+HOW TO JOIN CS50 COMMUNITIES
+
+Discord: https://discord.gg/cs50
+Ed: https://cs50.harvard.edu/x/ed
+Facebook Group: https://www.facebook.com/groups/cs50/
+Faceboook Page: https://www.facebook.com/cs50/
+GitHub: https://github.com/cs50
+Gitter: https://gitter.im/cs50/x
+Instagram: https://instagram.com/cs50
+LinkedIn Group: https://www.linkedin.com/groups/7437240/
+LinkedIn Page: https://www.linkedin.com/school/cs50/
+Medium: https://cs50.medium.com/
+Quora: https://www.quora.com/topic/CS50
+Reddit: https://www.reddit.com/r/cs50/
+Slack: https://cs50.edx.org/slack
+Snapchat: https://www.snapchat.com/add/cs50
+SoundCloud: https://soundcloud.com/cs50
+Stack Exchange: https://cs50.stackexchange.com/
+TikTok: https://www.tiktok.com/@cs50
+Twitter: https://twitter.com/cs50
+YouTube: https://www.youtube.com/cs50
+
+HOW TO FOLLOW DAVID J. MALAN
+
+Facebook: https://www.facebook.com/dmalan
+GitHub: https://github.com/dmalan
+Instagram: https://www.instagram.com/davidjmalan/
+LinkedIn: https://www.linkedin.com/in/malan/
+TikTok: https://www.tiktok.com/@davidjmalan
+Twitter: https://twitter.com/davidjmalan
+
+LICENSE
+
+CC BY-NC-SA 4.0
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+https://creativecommons.org/licenses/by-nc-sa/4.0/",freeCodeCamp.org,2023-05-01T13:55:40Z,9560213,241902,5444,247346,2.59
+GfWRxr1OBm4,Python Basics: The Best Way to Learn Python Programming (2024),"Python Basics: The Best Way to Learn Python Programming (2024)
+👉@monuinstitute
+
+Some of you asked me about Python courses for further learning. I strongly recommend you not to buy any overpriced course. One of the most underrated resources in the journey of programmers is Udemy (This post is not sponsored).
+The affordable courses Udemy provides with doubt support are way way better than most of the paid courses I see online these days. Here are some of my top picks with discount applied for you:
+Python is one of the most demanded programming languages in the job market. Surprisingly, it is equally easy to learn and master  Python. This python tutorial for absolute beginners in Hindi series will focus on teaching you python concepts from the ground up. Today we will see some of the mindblowing python programs, I created.
+
+Topic:
+1) python coding 
+2) python language 
+3) python programming 
+4) python course 
+5) python import library 
+6) python graphics 
+7) python tutorial 
+8) python import statement 
+9) python project 
+10) python complete course 
+11)monu institute 
+
+Tags:
+python for beginners
+python projects
+data science python
+ python tutorial
+ learn python
+python course
+coding for beginners
+python tips
+python scripting
+python automation
+data analysis
+python automation projects
+how to learn python
+ python programming
+python basics
+learn python from scratch
+ coding
+python tricks
+programming skills
+python tutorial for beginners
+ python tutorials
+ data analysis python
+code
+programming
+ advanced python
+ python scripts
+
+Hashtags:
+#python #coding #code #cod #pythonprogramming #computerscience #computerknowledge #computer #learning #learncoding #codelover #computers #education #educational #educational
+
+Hello dosto video se sambandhit sujhav dene ke liye neech diye gye email sujhav de sakte hai
+👉 E-mail: mv8293399@gmail.com",Monu institute ,2024-12-29T01:57:30Z,3498473,43029,339,43368,1.24
+Ht_LdGroNZE,LEVEL UP Your Python Game!! #python #coding #programming,"⭐ Join the Byte Club to practice your Python skills! ($2.99/mo): https://www.youtube.com/channel/UCTrAO0TDCldnYUN3BkLmGcw/join
+🐦 Follow me on Twitter: https://twitter.com/b001io
+
+Background Music:
+Mystic Mountain by Purrple Cat | https://purrplecat.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/deed.en_US",b001,2023-06-18T19:44:38Z,2144681,102983,887,103870,4.84
+AQJbHAeUhzM,How to MASTER Python for FREE,,Sajjaad Khader,2025-07-28T21:30:00Z,1069482,56763,300,57063,5.34
+J9kP7bjwERk,-Beginner’s Roadmap to Learn Python | 2025 Starter Guide #shorts #python #pythonprogramming,"Join our Live 4 Month Job-Ready BOOTCAMPS: 
+ 
+Full Stack Development – Build web apps from scratch 
+https://www.errormakesclever.com/fullstack-course?source=FSD_YT_Organic 
+ 
+DevOps with AWS– Learn automation, CI/CD & cloud deployment 
+https://www.errormakesclever.com/devops?source=Devops_YT_Organic 
+ 
+UI/UX Design – Master design thinking & user experience 
+https://www.errormakesclever.com/ui-ux?source=UIUX_YT_Organic
+
+Want to start learning Python the right way? Here’s a complete roadmap for beginners 👇
+
+🔹 Watch Error Makes Clever’s 10-hour Python video
+🔹 Practice daily on HackerRank / Slash Domain
+🔹 Use PythonTutor.com
+ to visualize your logic
+🔹 Learn Django to move into real projects
+
+This guide helps students, freshers, and job seekers build strong logic instead of just syntax memorization.
+
+ Save this video & follow Error Makes Clever for more career + coding guides!
+
+To know more watch the full video &  Stay tuned here for the tech insights
+
+Follow us on  Instagram : https://www.instagram.com/errormakesclever/?hl=en
+
+Follow us on linkedin : https://www.linkedin.com/company/errormakesclever
+
+Follow us on facebook : https://www.facebook.com/errormakesclever/
+
+Subscribe : https://www.youtube.com/@ErrorMakesClever
+
+Website: https://www.errormakesclever.com/
+
+#python #coding #career #tech #errormakesclever",Error Makes Clever,2025-10-09T12:30:34Z,477422,33616,75,33691,7.06
+K5KVEU3aaeQ,Python Full Course for Beginners,"Master Python from scratch 🚀 No fluff—just clear, practical coding skills to kickstart your journey! 
+
+🚀 Want to dive deeper?
+- Check out my complete Python mastery course: https://mosh.link/python-course
+- Subscribe for more awesome Python content: https://goo.gl/6PYaGF
+
+🔗 Related videos 
+https://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM
+
+✋ Stay connected:
+- Full Courses: https://codewithmosh.com
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+📖 Table of Content
+0:00:00 Introduction
+0:00:56 What is Python?
+0:04:11 Installing Python
+0:05:36 Python Interpreter
+0:07:30 Code Editors
+0:08:49 Your First Python Program
+0:12:25 Python Extension
+0:14:26 Linting Python Code
+0:18:40 Formatting Python Code
+0:22:51 Running Python Code
+0:24:30 Python Implementations
+0:26:59 How Python Code is Executed
+0:29:45 Quiz
+0:31:17 Python Mastery Course
+0:31:44 Variables
+0:34:48 Variable Names
+0:37:51 Strings
+0:43:20 Escape Sequences
+0:46:01 Formatted Strings
+0:48:09 String Methods
+0:54:03 Numbers
+0:56:50 Working With Numbers
+0:58:59 Type Conversion
+1:04:03 Quiz
+1:06:43 Comparison Operators
+1:08:46 Conditional Statements
+1:12:56 Ternary Operator
+1:15:04 Logical Operators
+1:19:07 Short-circuit Evaluations
+1:21:13 Chaining Comparison Operators
+1:22:35 Quiz
+1:24:18 For Loops
+1:27:56 For..Else
+1:30:42 Nested Loops
+1:33:26 Iterables
+1:36:34 While Loops
+1:41:33 Infinite Loops
+1:43:10 Exercise
+1:45:13 Defining Functions
+1:47:37 Arguments
+1:49:57 Types of Functions
+1:53:59 Keyword Arguments
+1:55:59 Default Arguments
+1:57:34 xargs
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,2025-02-12T12:30:31Z,8172700,173548,4524,178072,2.18
+_3Evgblmfwo,🚀 Learn Python with Fun Cartoons! | Python Basics for Beginners  🔥 #python #coding,"Learn Python the FUN way! 🚀 In this cartoon-style #Shorts video, I’ll teach you a simple Python coding concept using colorful animations and easy-to-follow examples. Perfect for beginners, or anyone who loves creative tech content! 🖥️  
+
+
+This video published by Alan Becker
+
+original video link : https://youtu.be/EFmxPMdBqmU?si=utnCojeQgsyzwRHF
+
+
+✨ **What’s Inside:**  
+- A playful Python lesson (e.g., ""Hii,"" variables, or string)  
+- Cartoon visuals to make coding feel like a game 🎮  
+- Quick tips to remember key concepts  
+
+🔔 **Subscribe for More Animated Coding Tutorials!**  
+Turn on notifications so you never miss a fun lesson!  
+
+💬 **Comment Below:** ""Next Python topic you want as a cartoon?""  
+
+📢 Follow Me on Social Media:
+🔗 Instagram: https://www.instagram.com/code_with_satya/
+🔗 Telegram: https://t.me/code_with_satya
+
+#PythonCartoon #FunCoding #LearnPython #PythonShorts #ProgrammingFun  #programmingmemes #codingproblems #codingchallenge #eventplanner #coding #programminglife #snakes #codingfun #roamtheplanet #ourplanetdaily #medicalcoding #weddingplanner #plant #ballpython #programming #plantsofinstagram #snakeskin #python #ballpythonlove #viralcypher #ballpythons #intags #snakesofinstagram #plants #plantbased #programmer #learncoding #weightlossprogram",TechxAI,2025-03-10T12:07:01Z,3920605,106639,715,107354,2.74
+80yIVH2aOy0,python programming|python for beginners|python full course,"python programming|python for beginners|python full course
+
+👉@monuinstitute
+python tutorial, learn python, python basics, python projects, machine learning, coder, python zero to hero, python for data, coding with python, python concepts, computer programming, learning python, coding python, data science python, python project ideas, python course, python coding, computers, python programming basics, how to learn python fast, beginner python, python syllabus, software engineer, python for kids, coding for kids, advanced python, data analysis
+
+👉 Hashtags:
+#python #coding #pythonlanguage #pythonprogramming #codewithharry #apnacollege #pythontutorial #tutorial #turtle #cod #java #shorts #computer #cs",Monu institute ,2025-06-06T00:51:25Z,2094223,31737,289,32026,1.53
